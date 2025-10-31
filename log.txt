@@ -1,1 +1,2 @@
 Claude container push test Thu Oct 30 10:46:32 UTC 2025
+Hello from Docker + Claude!
